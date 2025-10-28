@@ -92,4 +92,4 @@ This project is for educational purposes.
 
 ---
 
-**Feel free to contribute or raise issues!** ![image](https://github.com/user-attachments/assets/dbab54e4-f037-4f7b-a979-5037a5dfefd2)
+**Feel free to contribute or raise issues!**
